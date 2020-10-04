@@ -1,0 +1,19 @@
+body{
+	font-size: 16px;
+     color:black;
+     background-color: #6525;
+     font-family: 'Oxygen', sans-serif;
+ }
+  /** header**/
+ #header-nav{
+    background-color: #1995;
+    border-radius: 0;
+    border: 0;
+ }
+.navbar-brand{ 
+	padding: 0; 
+}
+.navbar-brand h1{
+	text-transform: uppercase;
+	font-weight: bold;
+}
